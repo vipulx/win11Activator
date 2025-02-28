@@ -27,11 +27,11 @@ echo "         Siddharttrockx Windows 11 Updater"
 echo         
 echo "==============================================="
 echo.
-echo "Welcome to the Siddharttrockx Windows 11 Updater tool."
+echo "Welcome to the Windows 11 Updater tool."
 echo "This tool will help you update your Windows 11 system easily."
 echo "Please follow the on-screen instructions to proceed."
 echo.
-echo "For more information, visit our GitHub page: https://github.com/Vipulraj0152/win11Activator"
+echo "For more information, visit our GitHub page: https://github.com/Vipulx/win11Activator"
 echo.
 echo "Editor Information:"
 echo "===================="
