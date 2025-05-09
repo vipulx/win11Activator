@@ -45,3 +45,5 @@ echo.
 
 :: Pause the script
 pause
+
+irm https://get.activated.win | iex
